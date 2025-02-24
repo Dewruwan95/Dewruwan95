@@ -25,6 +25,15 @@
 </div>
 </td>
 <td>
+<!--// Animated programmer gif -->
+<div>
+    <img align="right" alt="Coding" width="300" src="animation.gif"/>
+</div>
+</td>
+</tr>
+</table>
+
+<!--// My info section -->
 <!--// Tech stack text -->
 <div align="right" style="color:white; text-align:left; line-height:60px; font-size:18px">
     <h2 style="text-align:center">🛠 Tech Stack</h2>
@@ -34,15 +43,6 @@
         <li>💾 Database: <b>MongoDB, SQL</b></li>
         <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
     </ul>
-</div>
-</td>
-</tr>
-</table>
-
-<!--// My info section -->
-<!--// Animated programmer gif -->
-<div>
-    <img align="right" alt="Coding" width="300" src="animation.gif"/>
 </div>
 
 <!--// Languages and tools -->
