@@ -10,26 +10,37 @@
 <div>
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
 </div>
-<table align="center" style="border:none">
+
+<table align="center">
 <tr>
-<td>
-<!--// About me text -->
+<td><h2 style="text-align:center">🚀 About Me</h2></td>
+<td rowspan="2">
+<!--// Animated programmer gif -->
+<div>
+    <img align="right" alt="Coding" width="300" src="animation.gif"/>
+</div>
+</td>
+</tr>
+<tr>
+<td><!--// About me text -->
 <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
-    <h2 style="text-align:center">🚀 About Me</h2>
     <ul>
         <li>🔭 I love developing <b>web apps</b></li>
         <li>🌱 I'm currently learning <b>Flutter</b></li>
         <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
         <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
     </ul>
-</div>
-</td>
-<td>
-<!--// Animated programmer gif -->
-<div>
-    <img align="right" alt="Coding" width="300" src="animation.gif"/>
-</div>
-</td>
+</div></td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td>A</td>
+<td rowspan="2">B</td>
+</tr>
+<tr>
+<td>C</td>
 </tr>
 </table>
 
