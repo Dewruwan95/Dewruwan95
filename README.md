@@ -10,7 +10,7 @@
 <div>
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
 </div>
-<table>
+<table align="center" style="border:none">
 <tr>
 <td>
 <!--// About me text -->
