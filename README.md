@@ -1,4 +1,4 @@
-<div style="background:#2C2C2C">
+<div>
     <!-- Header banner -->
     <div style="text-align:center">
         <img src="git-profile-banner.jpg" alt="MasterHead" width="100%">
@@ -6,37 +6,51 @@
     <!-- Typing animation text -->
     <div style="text-align:center; padding-top:40px">
         <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
-    </div><!-- My info section -->
+    </div>
+    <!-- My info section -->
     <div style="display:flex; justify-content:center">
-        <!-- About me text -->
-        <div style="color:white; margin:10px; text-align:left; line-height:60px; font-size:18px">
-            <h2>🚀 About Me</h2>
-            <ul>
-                <li>🔭 I love developing <b>web apps</b></li>
-                <li>🌱 I'm currently learning <b>Flutter</b></li>
-                <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
-                <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
-            </ul>
-        </div> <!-- Animated programmer gif -->
-        <div style="color:white; margin:10px; text-align:left; line-height:60px; font-size:18px">
-            <img align="right" alt="Coding" width="400" src="animation.gif"/>
-        </div>
-        <!-- Tech stack text -->
-        <div style="color:white; margin:10px; text-align:left; line-height:60px; font-size:18px">
-            <h2>🛠 Tech Stack</h2>
-            <ul>
-                <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
-                <li>🛠 Backend: <b>Node.js, Express.js</b></li>
-                <li>💾 Database: <b>MongoDB, SQL</b></li>
-                <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
-            </ul>
+        <div style="display: flex;">
+            <div style="flex: 1; padding: 10px;">
+                <!-- About me text -->
+                <div style="color:white; margin:10px; text-align:left; line-height:60px; font-size:18px">
+                    <h2>🚀 About Me</h2>
+                    <ul>
+                        <li>🔭 I love developing <b>web apps</b></li>
+                        <li>🌱 I'm currently learning <b>Flutter</b></li>
+                        <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
+                        <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
+                    </ul>
+                </div>
+            </div>
+            <div style="flex: 1; padding: 10px;">
+                <!-- Animated programmer gif -->
+                <div style="color:white; margin:10px; text-align:left; line-height:60px; font-size:18px">
+                    <img align="right" alt="Coding" width="400" src="animation.gif"/>
+                </div>
+            </div>
+            <div style="flex: 1; padding: 10px;">
+                <!-- Tech stack text -->
+                <div style="color:white; margin:10px; text-align:left; line-height:60px; font-size:18px">
+                    <h2>🛠 Tech Stack</h2>
+                    <ul>
+                        <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
+                        <li>🛠 Backend: <b>Node.js, Express.js</b></li>
+                        <li>💾 Database: <b>MongoDB, SQL</b></li>
+                        <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
     <!-- Languages and tools -->
     <div>
-        <h3 style="text-align:center; padding-top:20px; padding-bottom:20px; color:#FF4081; font-size:30px; animation: myAnim 2s ease 0s infinite normal forwards">
-            💻 Languages & Tools
-        </h3>
+        <div align="center">
+            <picture style="text-align:center">
+                <source media="(prefers-color-scheme: dark)" srcset="language-tools-dark.gif" />
+                <source media="(prefers-color-scheme: light)" srcset="language-tools-light.gif" />
+                <img alt="language & tools" src="language-tools-light.gif" />
+            </picture>
+        </div>
         <div style="text-align:center; margin-left:300px; margin-right:300px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:70px; padding:10px" alt="javascript logo" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:70px; padding:10px" alt="typescript logo" />
@@ -61,9 +75,13 @@
     </div>
     <!-- GitHub stats -->
     <div>
-        <h3 style="text-align:center; padding-top:40px; padding-bottom:20px; color:#B7B1F2; font-size:30px; animation: myAnim 2s ease 0s infinite normal forwards">
-            📈 GitHub Stats
-        </h3>
+        <div align="center">
+            <picture style="text-align:center">
+                <source media="(prefers-color-scheme: dark)" srcset="github-stats-dark.gif" />
+                <source media="(prefers-color-scheme: light)" srcset="github-stats-light.gif" />
+                <img alt="github stats" src="github-stats-light.gif" />
+            </picture>
+        </div>
         <!-- Section 1 -->
         <section style="display:flex; justify-content:center; gap:50px">
             <!-- Animated programmer gif 2 -->
@@ -87,9 +105,13 @@
     </div>
     <!-- Social media -->
     <div>
-        <h3 style="text-align:center; padding-top:40px; padding-bottom:20px; color:#B8D576; font-size:30px; animation: myAnim 2s ease 0s infinite normal forwards">
-            🚀 Connect With Me
-        </h3>
+        <div align="center">
+            <picture style="text-align:center">
+                <source media="(prefers-color-scheme: dark)" srcset="connect-with-me-dark.gif" />
+                <source media="(prefers-color-scheme: light)" srcset="connect-with-me-light.gif" />
+                <img alt="connect with me" src="connect-with-me-light.gif" />
+            </picture>
+        </div>
         <div style="text-align:center">
             <a href="https://www.linkedin.com/in/ositha-dewruwan/" target="_blank">
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -110,9 +132,13 @@
     </div>
     <!-- Random quote -->
     <div style="text-align:center">
-        <h3 style="text-align:center; padding-top:40px; padding-bottom:20px; color:#FDAB9E; font-size:30px; animation: myAnim 2s ease 0s infinite normal forwards">
-            ✍️ Random Dev Quote
-        </h3>
+        <div align="center">
+            <picture style="text-align:center">
+                <source media="(prefers-color-scheme: dark)" srcset="random-quote-dark.gif" />
+                <source media="(prefers-color-scheme: light)" srcset="random-quote-light.gif" />
+                <img alt="random quote" src="random-quote-light.gif" />
+            </picture>
+        </div>
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="300" alt="random quote" />
     </div>
     <!-- Snake animation -->
@@ -128,30 +154,3 @@
         <img src="https://komarev.com/ghpvc/?username=dewruwan95&label=Profile%20views&color=0e75b6&style=flat" alt="dewruwan95" />
     </div>
 </div>
-
-<!-- Keyframes animation for pulse effect (can be included in a <style> tag in your README) -->
-<style>
-@keyframes myAnim {
-    0% {
-        animation-timing-function: ease-out;
-        transform: scale(1);
-        transform-origin: center center;
-    }
-    10% {
-        animation-timing-function: ease-in;
-        transform: scale(0.91);
-    }
-    17% {
-        animation-timing-function: ease-out;
-        transform: scale(0.98);
-    }
-    33% {
-        animation-timing-function: ease-in;
-        transform: scale(0.87);
-    }
-    45% {
-        animation-timing-function: ease-out;
-        transform: scale(1);
-    }
-}
-</style>
