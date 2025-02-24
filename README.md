@@ -13,16 +13,8 @@
 
 <table align="center">
 <tr>
-<td><h2 style="text-decoration:none;">🚀 About Me</h2></td>
-<td rowspan="2">
-<!--// Animated programmer gif -->
-<div>
-    <img align="right" alt="Coding" width="300" src="animation.gif"/>
-</div>
-</td>
-</tr>
-<tr>
 <td><!--// About me text -->
+<h2 style="text-align:center;">🚀 About Me</h2>
 <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
     <ul>
         <li>🔭 I love developing <b>web apps</b></li>
@@ -31,16 +23,10 @@
         <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
     </ul>
 </div></td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td>A</td>
-<td rowspan="2">B</td>
-</tr>
-<tr>
-<td>C</td>
+<td><!--// Animated programmer gif -->
+<div>
+    <img align="right" alt="Coding" width="300" src="animation.gif"/>
+</div></td>
 </tr>
 </table>
 
