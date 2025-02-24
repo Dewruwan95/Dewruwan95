@@ -34,13 +34,10 @@
             </div>
         </td>
     </tr>
-</table>
-
-<!--// tech stack table -->
-<table align="center">
+<!--// tech stack row -->
     <tr>
-        <td>
-            <!--// Languages and tools -->
+    <td>
+    <!--// Languages and tools -->
 <div align="center">
     <!--// title gif -->
     <picture style="text-align:center">
@@ -49,7 +46,7 @@
         <img alt="language & tools" src="language-tools-light.gif" />
     </picture>
     <!--// logo icons -->
-    <div style="text-align:center;">
+    <div style="text-align:left;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px;" alt="javascript logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:50px;" alt="typescript logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height:50px;" alt="react logo" />
@@ -74,9 +71,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height:50px;" alt="vscode logo" />
     </div>
 </div>
-        </td>
-        <td>
-            <!--// Tech stack text -->
+    </td>
+    <td>
+    <!--// Tech stack text -->
 <div align="center" style="color:white; text-align:left; line-height:60px; font-size:18px">
     <h2 style="text-align:center">🛠 Tech Stack</h2>
     <ul>
@@ -86,7 +83,7 @@
         <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
     </ul>
 </div>
-        </td>
+    </td>
     </tr>
 </table>
 
