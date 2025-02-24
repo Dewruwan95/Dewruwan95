@@ -56,19 +56,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height:50px;" alt="next logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="height:50px;" alt="tailwind logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height:50px;" alt="node logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="height:50px;; background:#fff" alt="express logo" />
         </br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="height:50px;; background:#fff" alt="express logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" style="height:50px;" alt="mongodb logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height:50px;" alt="mysql logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" style="height:50px;; background:#fff" alt="mongoose logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="height:50px;" alt="npm logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height:50px;" alt="html logo" />
+        </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height:50px;" alt="css logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height:50px;" alt="c logo" />
-        </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="height:50px;" alt="java logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="height:50px;" alt="firebase logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="height:50px;" alt="postman logo" />
+        </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="height:50px;" alt="arduino logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height:50px;" alt="vscode logo" />
     </div>
@@ -76,7 +77,7 @@
         </td>
         <td>
             <!--// Tech stack text -->
-<div align="right" style="color:white; text-align:left; line-height:60px; font-size:18px">
+<div align="center" style="color:white; text-align:left; line-height:60px; font-size:18px">
     <h2 style="text-align:center">🛠 Tech Stack</h2>
     <ul>
         <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
