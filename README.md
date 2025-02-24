@@ -3,15 +3,19 @@
     <img src="git-profile-banner.jpg" alt="MasterHead" width="100%">
 </div>
 
+</br>
+</br>
+
 <!--// Typing animation text -->
 <div>
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
 </div>
-
-<!--// My info section -->
+<table>
+<tr>
+<td>
 <!--// About me text -->
 <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
-    <h2>🚀 About Me</h2>
+    <h2 style="text-align:center">🚀 About Me</h2>
     <ul>
         <li>🔭 I love developing <b>web apps</b></li>
         <li>🌱 I'm currently learning <b>Flutter</b></li>
@@ -19,15 +23,11 @@
         <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
     </ul>
 </div>
-
-<!--// Animated programmer gif -->
-<div style="color:white; text-align:left; line-height:60px; font-size:18px">
-    <img align="right" alt="Coding" width="400" src="animation.gif"/>
-</div>
-
+</td>
+<td>
 <!--// Tech stack text -->
-<div style="color:white; text-align:left; line-height:60px; font-size:18px">
-    <h2>🛠 Tech Stack</h2>
+<div align="right" style="color:white; text-align:left; line-height:60px; font-size:18px">
+    <h2 style="text-align:center">🛠 Tech Stack</h2>
     <ul>
         <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
         <li>🛠 Backend: <b>Node.js, Express.js</b></li>
@@ -35,7 +35,16 @@
         <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
     </ul>
 </div>
-           
+</td>
+</tr>
+</table>
+
+<!--// My info section -->
+<!--// Animated programmer gif -->
+<div>
+    <img align="right" alt="Coding" width="300" src="animation.gif"/>
+</div>
+
 <!--// Languages and tools -->
 <div align="center">
     <!--// title gif -->
