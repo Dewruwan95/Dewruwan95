@@ -4,7 +4,6 @@
 </div>
 
 </br>
-</br>
 
 <!--// Typing animation text -->
 <div>
@@ -27,7 +26,7 @@
 </div></td>
 <td><!--// Animated programmer gif -->
 <div>
-    <img align="right" alt="Coding" width="300" src="animation.gif"/>
+    <img align="right" alt="Coding" width="400" src="animation.gif"/>
 </div></td>
 </tr>
 </table>
