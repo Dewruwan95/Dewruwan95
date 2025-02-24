@@ -18,15 +18,15 @@
 </br>
 <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
     <ul>
-        <li>🔭 I love developing <b>web apps</b></li>
-        <li>🌱 I'm currently learning <b>Flutter</b></li>
+        <li style="font-size:50px">🔭 I love developing <b>web apps</b></li>
+        <li><span style="font-size:50px">🌱 I'm currently learning <b>Flutter</b></span></li>
         <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
         <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
     </ul>
 </div></td>
 <td><!--// Animated programmer gif -->
 <div>
-    <img align="right" alt="Coding" width="400" src="animation.gif"/>
+    <img align="right" alt="Coding" width="250" src="animation.gif"/>
 </div></td>
 </tr>
 </table>
