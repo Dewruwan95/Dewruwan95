@@ -11,39 +11,36 @@
 </div>
 </br>
 
+<!--// about me table -->
 <table align="center">
-<tr>
-<td><!--// About me text -->
-<h2 align="center">🚀 About Me</h2>
-</br>
-<div style="color:white; text-align:left; font-size:18px; line-height:60px;">
-    <ul>
-        <li style="font-size:50px">🔭 I love developing <b>web apps</b></li>
-        <li><span style="font-size:50px">🌱 I'm currently learning <b>Flutter</b></span></li>
-        <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
-        <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
-    </ul>
-</div></td>
-<td><!--// Animated programmer gif -->
-<div>
-    <img align="right" alt="Coding" width="250" src="animation.gif"/>
-</div></td>
-</tr>
+    <tr>
+        <td>
+            <!--// About me text -->
+            <h2 align="center">🚀 About Me</h2>
+            </br>
+            <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
+                <ul>
+                    <li>🔭 I love developing <b>web apps</b></li>
+                    <li>🌱 I'm currently learning <b>Flutter</b></li>
+                    <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
+                    <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
+                </ul>
+            </div>
+        </td>
+        <td>
+            <!--// Animated programmer gif -->
+            <div>
+                <img align="right" alt="Coding" width="350" src="animation.gif"/>
+            </div>
+        </td>
+    </tr>
 </table>
 
-<!--// My info section -->
-<!--// Tech stack text -->
-<div align="right" style="color:white; text-align:left; line-height:60px; font-size:18px">
-    <h2 style="text-align:center">🛠 Tech Stack</h2>
-    <ul>
-        <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
-        <li>🛠 Backend: <b>Node.js, Express.js</b></li>
-        <li>💾 Database: <b>MongoDB, SQL</b></li>
-        <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
-    </ul>
-</div>
-
-<!--// Languages and tools -->
+<!--// tech stack table -->
+<table align="center">
+    <tr>
+        <td>
+            <!--// Languages and tools -->
 <div align="center">
     <!--// title gif -->
     <picture style="text-align:center">
@@ -60,6 +57,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="height:50px;" alt="tailwind logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height:50px;" alt="node logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="height:50px;; background:#fff" alt="express logo" />
+        </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" style="height:50px;" alt="mongodb logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height:50px;" alt="mysql logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" style="height:50px;; background:#fff" alt="mongoose logo" />
@@ -67,6 +65,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height:50px;" alt="html logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height:50px;" alt="css logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height:50px;" alt="c logo" />
+        </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="height:50px;" alt="java logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="height:50px;" alt="firebase logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="height:50px;" alt="postman logo" />
@@ -74,6 +73,23 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height:50px;" alt="vscode logo" />
     </div>
 </div>
+        </td>
+        <td>
+            <!--// Tech stack text -->
+<div align="right" style="color:white; text-align:left; line-height:60px; font-size:18px">
+    <h2 style="text-align:center">🛠 Tech Stack</h2>
+    <ul>
+        <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
+        <li>🛠 Backend: <b>Node.js, Express.js</b></li>
+        <li>💾 Database: <b>MongoDB, SQL</b></li>
+        <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
+    </ul>
+</div>
+        </td>
+    </tr>
+</table>
+
+<!--// My info section -->
 
 <!--// GitHub stats -->
 <div align="center">
