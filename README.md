@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
 <td><!--// About me text -->
-<h2 style="text-align:center;">🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
     <ul>
         <li>🔭 I love developing <b>web apps</b></li>
