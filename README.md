@@ -13,7 +13,7 @@
 
 <table align="center">
 <tr>
-<td><h2 style="text-align:center">🚀 About Me</h2></td>
+<td><p style="text-align:center; font-size:30px">🚀 About Me</p></td>
 <td rowspan="2">
 <!--// Animated programmer gif -->
 <div>
