@@ -10,11 +10,13 @@
 <div>
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
 </div>
+</br>
 
 <table align="center">
 <tr>
 <td><!--// About me text -->
 <h2 align="center">🚀 About Me</h2>
+</br>
 <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
     <ul>
         <li>🔭 I love developing <b>web apps</b></li>
