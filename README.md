@@ -30,7 +30,7 @@
         <td>
             <!--// Animated programmer gif -->
             <div>
-                <img align="right" alt="Coding" width="350" src="animation.gif"/>
+                <img align="center" alt="Coding" width="350" src="animation.gif"/>
             </div>
         </td>
     </tr>
@@ -120,9 +120,9 @@
         <source media="(prefers-color-scheme: light)" srcset="connect-with-me-light.gif" />
         <img alt="connect with me" src="connect-with-me-light.gif" />
     </picture>
-    </br>
     <!--// social links -->
     <div>
+    </br>
         <div style="text-align:center">
             <a href="https://www.linkedin.com/in/ositha-dewruwan/" target="_blank">
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -140,8 +140,9 @@
                 <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
             </a>
         </div>
+</br>
     </div>
-</div></br>
+</div>
   </td>
   </tr>
   <tr>
