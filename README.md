@@ -160,7 +160,7 @@
   <!--// Random quote -->
 <div align="center">
     <!--// title gif -->
-    <picture style="text-align:center">
+    <picture height="100px" style="text-align:center">
         <source media="(prefers-color-scheme: dark)" srcset="random-quote-dark.gif" />
         <source media="(prefers-color-scheme: light)" srcset="random-quote-light.gif" />
         <img alt="random quote" src="random-quote-light.gif" />
@@ -173,6 +173,7 @@
     </br>
 </div>
   </td>
+  </tr><tr>
   </tr>
   <tr>
   <td align="center" colspan="2"><!--// Snake animation -->
