@@ -13,6 +13,8 @@
 
 <!--// about me table -->
 <table align="center">
+<tr>
+</tr>
     <tr>
         <td>
             <!--// About me text -->
