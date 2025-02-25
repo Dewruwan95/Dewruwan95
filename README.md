@@ -1,15 +1,16 @@
 <!--// about me table -->
 <table align="center">
-<tr><!--// Header banner -->
+<tr><td colspan="2"><!--// Header banner -->
 <div>
     <img src="git-profile-banner.jpg" alt="MasterHead" width="100%">
-</div>
+</div></td>
+
 </tr>
-<tr><!--// Typing animation text -->
+<tr><td colspan="2"><!--// Typing animation text -->
 <div></br>
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
     </br>
-</div>
+</div></td>
 </tr>
     <tr>
         <td>
