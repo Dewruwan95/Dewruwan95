@@ -47,6 +47,7 @@
                     <source media="(prefers-color-scheme: light)" srcset="language-tools-light.gif" />
                     <img alt="language & tools" src="language-tools-light.gif" />
                 </picture>
+                </br>
                 <!--// logo icons -->
                 <div style="text-align:center;">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px;" alt="javascript logo" />
@@ -86,6 +87,8 @@
                 </ul>
             </div>
         </td>
+    </tr>
+    <tr>
     </tr>
     <tr>
     <td align="center" colspan="2" style="text-align: center;"><!--// title gif -->
