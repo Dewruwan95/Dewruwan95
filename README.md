@@ -38,7 +38,7 @@
         </td>
         <td>
             <!--// Animated programmer gif -->
-            <div>
+            <div align="center">
                 <img align="center" alt="Coding" width="350" src="animation.gif"/>
             </div>
         </td>
