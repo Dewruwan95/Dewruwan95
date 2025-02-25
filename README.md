@@ -120,6 +120,7 @@
         <source media="(prefers-color-scheme: light)" srcset="connect-with-me-light.gif" />
         <img alt="connect with me" src="connect-with-me-light.gif" />
     </picture>
+    </br>
     <!--// social links -->
     <div>
         <div style="text-align:center">
@@ -140,11 +141,12 @@
             </a>
         </div>
     </div>
-</div>
+</div></br>
   </td>
   </tr>
   <tr>
-  <td align="center" colspan="2"><!--// Random quote -->
+  <td align="center" colspan="2">
+  <!--// Random quote -->
 <div align="center">
     <!--// title gif -->
     <picture style="text-align:center">
@@ -152,10 +154,12 @@
         <source media="(prefers-color-scheme: light)" srcset="random-quote-light.gif" />
         <img alt="random quote" src="random-quote-light.gif" />
     </picture>
+  </br>
     <!--// quote -->
     <div>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="300" alt="random quote" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  alt="random quote" />
     </div>
+    </br>
 </div>
   </td>
   </tr>
@@ -173,7 +177,9 @@
   <tr>
   <td align="center" colspan="2"><!--// Profile views count -->
 <div style="text-align:left">
+</br>
     <img src="https://komarev.com/ghpvc/?username=dewruwan95&label=Profile%20views&color=0e75b6&style=flat" alt="dewruwan95" />
+    </br>
 </div>
   </td>
   </tr>
