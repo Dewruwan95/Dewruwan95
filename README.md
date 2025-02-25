@@ -1,19 +1,15 @@
-<!--// Header banner -->
+<!--// about me table -->
+<table align="center">
+<tr><!--// Header banner -->
 <div>
     <img src="git-profile-banner.jpg" alt="MasterHead" width="100%">
 </div>
-
-</br>
-
-<!--// Typing animation text -->
-<div>
+</tr>
+<tr><!--// Typing animation text -->
+<div></br>
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+ideas+into+reality+with+code." alt="Typing SVG" />
+    </br>
 </div>
-</br>
-
-<!--// about me table -->
-<table align="center">
-<tr>
 </tr>
     <tr>
         <td>
@@ -185,6 +181,7 @@
 <div style="text-align:left">
 </br>
     <img src="https://komarev.com/ghpvc/?username=dewruwan95&label=Profile%20views&color=0e75b6&style=flat" alt="dewruwan95" />
+    </br>
     </br>
 </div>
   </td>
