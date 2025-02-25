@@ -85,37 +85,44 @@
             </div>
         </td>
     </tr>
+    <tr>
+    <td colspan="2" style="text-align: center;"><!--// title gif -->
+    <picture style="text-align:center">
+        <source media="(prefers-color-scheme: dark)" srcset="github-stats-dark.gif" />
+        <source media="(prefers-color-scheme: light)" srcset="github-stats-light.gif" />
+        <img alt="github stats" src="github-stats-light.gif" />
+    </picture></td>
+  </tr><tr>
+    <td><!--// Animated programmer gif 2 -->
+        <div style="color:white; text-align:left; line-height:60px; font-size:18px">
+            <img align="center" alt="Coding" width="300" src="animation2.gif"/>
+        </div></td>
+    <td><!--// Most used languages -->
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewruwan95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="300" alt="language graph" />
+        </div></td>
+  </tr>
+  <tr>
+  <td><div>
+            <img src="https://github-readme-stats.vercel.app/api?username=Dewruwan95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" height="220" alt="stats graph" />
+        </div>
+  </td>
+  <td> <div>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewruwan95&theme=vue-dark&hide_border=false" height="220" alt="stats graph" />
+        </div>
+  </td>
+  </tr>
 </table>
 
 <!--// My info section -->
 
 <!--// GitHub stats -->
 <div align="center">
-    <!--// title gif -->
-    <picture style="text-align:center">
-        <source media="(prefers-color-scheme: dark)" srcset="github-stats-dark.gif" />
-        <source media="(prefers-color-scheme: light)" srcset="github-stats-light.gif" />
-        <img alt="github stats" src="github-stats-light.gif" />
-    </picture>
     <!--// Section 1 -->
-    <section >
-        <!--// Animated programmer gif 2 -->
-        <div style="color:white; text-align:left; line-height:60px; font-size:18px">
-            <img align="right" alt="Coding" width="300" src="animation2.gif"/>
-        </div>
-        <!--// Most used languages -->
-        <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewruwan95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="300" alt="language graph" />
-        </div>
+    <section >        
     </section>
     <!--// Section 2 -->
     <section >
-        <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=Dewruwan95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" height="220" alt="stats graph" />
-        </div>
-        <div>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewruwan95&theme=vue-dark&hide_border=false" height="220" alt="stats graph" />
-        </div>
     </section>
 </div>
 
