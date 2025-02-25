@@ -86,7 +86,7 @@
         </td>
     </tr>
     <tr>
-    <td colspan="2" style="text-align: center;"><!--// title gif -->
+    <td align="center" colspan="2" style="text-align: center;"><!--// title gif -->
     <picture style="text-align:center">
         <source media="(prefers-color-scheme: dark)" srcset="github-stats-dark.gif" />
         <source media="(prefers-color-scheme: light)" srcset="github-stats-light.gif" />
@@ -112,22 +112,8 @@
         </div>
   </td>
   </tr>
-</table>
-
-<!--// My info section -->
-
-<!--// GitHub stats -->
-<div align="center">
-    <!--// Section 1 -->
-    <section >        
-    </section>
-    <!--// Section 2 -->
-    <section >
-    </section>
-</div>
-
-<!--// Social media -->
-<div align="center">
+  <tr>
+  <td align="center" colspan="2"><div align="center">
     <!--// title gif -->
     <picture style="text-align:center">
         <source media="(prefers-color-scheme: dark)" srcset="connect-with-me-dark.gif" />
@@ -155,8 +141,10 @@
         </div>
     </div>
 </div>
-
-<!--// Random quote -->
+  </td>
+  </tr>
+  <tr>
+  <td align="center" colspan="2"><!--// Random quote -->
 <div align="center">
     <!--// title gif -->
     <picture style="text-align:center">
@@ -169,8 +157,10 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="300" alt="random quote" />
     </div>
 </div>
-
-<!--// Snake animation -->
+  </td>
+  </tr>
+  <tr>
+  <td align="center" colspan="2"><!--// Snake animation -->
 <div>
     <picture style="text-align:center">
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dewruwan95/Dewruwan95/output/github-snake-dark.svg" />
@@ -178,8 +168,28 @@
         <img alt="github-snake" src="https://raw.githubusercontent.com/Dewruwan95/Dewruwan95/output/github-snake.svg" />
     </picture>
 </div>
-
-<!--// Profile views count -->
+  </td>
+  </tr>
+  <tr>
+  <td align="center" colspan="2"><!--// Profile views count -->
 <div style="text-align:left">
     <img src="https://komarev.com/ghpvc/?username=dewruwan95&label=Profile%20views&color=0e75b6&style=flat" alt="dewruwan95" />
 </div>
+  </td>
+  </tr>
+
+</table>
+
+<!--// My info section -->
+
+<!--// GitHub stats -->
+<div align="center">
+    <!--// Section 1 -->
+    <section >        
+    </section>
+    <!--// Section 2 -->
+    <section >
+    </section>
+</div>
+
+<!--// Social media -->
