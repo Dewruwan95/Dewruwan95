@@ -16,12 +16,12 @@
     <tr>
         <td>
             <!--// About me text -->
-            <h2 align="center">🚀 About Me</h2>
+            <h1 align="center">🚀 About Me</h1>
             </br>
             <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
                 <ul>
-                    <li>🔭 I love developing <b>web apps</b></li>
-                    <li>🌱 I'm currently learning <b>Flutter</b></li>
+                    <li><h2>🔭 I love developing <b>web apps</b></h2></li>
+                    <li><h2>🌱 I'm currently learning <b>Flutter</b></h2></li>
                     <li>💬 Ask me about <b>Next.js, React, Node.js</b></li>
                     <li>📫 Reach me at <b>ositha@ideagraphix.com</b></li>
                 </ul>
