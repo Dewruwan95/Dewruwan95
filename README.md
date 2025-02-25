@@ -74,13 +74,13 @@
         </td>
         <td>
             <!--// Tech stack text -->
-            <div align="center" style="color:white; text-align:left; line-height:60px; font-size:18px">
-                <h2 align="center">🛠 Tech Stack</h2>
+            <div style="color:white; text-align:left; line-height:60px; font-size:18px">
+                <h1 align="center">🛠 Tech Stack</h1>
                 <ul>
-                    <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
-                    <li>🛠 Backend: <b>Node.js, Express.js</b></li>
-                    <li>💾 Database: <b>MongoDB, SQL</b></li>
-                    <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
+                    <h2>💻 Frontend: <b>Next, React, Tailwind CSS</b></h2>
+                    <h2>🛠 Backend: <b>Node.js, Express.js</b></h2>
+                    <h2>💾 Database: <b>MongoDB, SQL</b></h2>
+                    <h2>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></h2>
                 </ul>
             </div>
         </td>
