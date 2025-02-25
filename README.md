@@ -17,6 +17,7 @@
         <td>
             <!--// About me text -->
             <h2 align="center">🚀 About Me</h2>
+            </br>
             <div style="color:white; text-align:left; font-size:18px; line-height:60px;">
                 <ul>
                     <li>🔭 I love developing <b>web apps</b></li>
@@ -27,20 +28,16 @@
             </div>
         </td>
         <td>
-            <!--// Tech stack text -->
-            <h2 align="center">🛠 Tech Stack</h2>
-            <div style="color:white; text-align:left; line-height:60px; font-size:18px">
-                <ul>
-                    <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
-                    <li>🛠 Backend: <b>Node.js, Express.js</b></li>
-                    <li>💾 Database: <b>MongoDB, SQL</b></li>
-                    <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
-                </ul>
-            </div>  
+            <!--// Animated programmer gif -->
+            <div>
+                <img align="right" alt="Coding" width="350" src="animation.gif"/>
+            </div>
         </td>
-    </tr></table>
-                <!--// Languages and tools -->
-                <div align="left">
+    </tr>
+    <!--// tech stack row -->
+    <tr>
+        <td>
+            <!--// Languages and tools -->
             <div align="center">
                 <!--// title gif -->
                 <picture style="text-align:center">
@@ -73,13 +70,22 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="height:50px;" alt="arduino logo" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height:50px;" alt="vscode logo" />
                 </div>
-            </div></div>
-        <!--// Animated programmer gif -->
-            <div>
-                <img align="right" alt="Coding" width="350" src="animation.gif"/>
             </div>
-            
-
+        </td>
+        <td>
+            <!--// Tech stack text -->
+            <div align="center" style="color:white; text-align:left; line-height:60px; font-size:18px">
+                <h2 align="center">🛠 Tech Stack</h2>
+                <ul>
+                    <li>💻 Frontend: <b>Next, React, Tailwind CSS</b></li>
+                    <li>🛠 Backend: <b>Node.js, Express.js</b></li>
+                    <li>💾 Database: <b>MongoDB, SQL</b></li>
+                    <li>☁️ Cloud & Deployment: <b>Vercel, Netlify</b></li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
 <!--// My info section -->
 
